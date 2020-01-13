@@ -1,0 +1,26 @@
+#include <iostream>
+#include <vector>
+
+using namesapce std;
+
+class PageObject {
+public:
+  virtual void Add(PageObject a) {
+  }
+  virtual void Remove() {
+  }
+
+  virtual void Delete(PageObject a) {
+    
+  }
+};
+
+class Page : public PageObject {
+public:
+  void Add(PageObject a) {
+    cout << "something is added to the page" << endl;
+  }
+  void Remove()
+
+};
+
