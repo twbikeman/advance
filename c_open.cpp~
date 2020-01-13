@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+  FILE * fp;
+  fp = fopen("mymytest", "w+");
+  fprintf(fp, "%s\n", "123");
+  fclose(fp);
+  return 0;
+}
