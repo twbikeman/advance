@@ -32,7 +32,7 @@ Grow where you want to grow. Learn what you want to learn. Wherever you are on t
 
 I definitely fell into a cycle of feeling that good was good enough in my life, that I should probably feel fortunate to have a good job, to be good at that job and to have done good things. That is good and all. But it isn't great.
 
-Have a clear picture of what great looks like for you, map ut what it takes to get there and start investing in yourself once agian. It's time for sky's the limit thinking. It's time to get growthing going.
+Have a clear picture of what great looks like for you, map ut what it takes to get there and start investing in yourself once agian. It's time for sky's the limit thinking. It's time to get growing going.
 
 
 
