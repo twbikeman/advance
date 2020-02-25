@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# DAily weight training coupled with sauna  could lead to maile infertiliy
+
+An Australian couple still childless despite being married for many years initally thought the woman was infertile, and had even had artificial insemination, but to no avail. They came to Taiwan to see a doctor here, but were shocked by test results, which showed that the husband's sperm count was zero. Through questioning, the doctor discovered that the husband liked to work out and was trying to build up his muscles. Every day he would do two hours' weight traiing  and then spend half an hour in the sauna, and he had been training hard for over 1.5 year, but this  had rsulted in his azoospermia. Fortunately, he made some changes and four months later ahd another test, which showed that there six million sperm in 1.8 cc of semen, and his wife became pregnant. The couple are now the proud parents of twins.
+
+According to Yang Wen-jui, director of Taiwan IVF Group, the normal sperm count in healthy males is between 40 million and 60 million sperm per cc of semen. in 1990, however, the WHO lowered the male sperm count standard from 60 million sperm per cc os semen to 20 million, and 2010 adjusted it downward again, to 15 million. Clearly, the problem of male infertility is to be taken seriously.
+
+Yang says that when the semen has no sperm at all it is known as azoospermia, and the main reason is an imbalance in the hormones secreted by the hypothalamus and the pituitary glands in the brain, the inability of the testicles to produce sperm or an obstruction of the vas deferens. The high risk group for male infertility includes chefs, people who spend a lot of time in front of the computer, engineers, avid cyclists, people who exercise excessively, people who often wear jeans and heavy users of hot springs and sauna.
+
+She adds that doing a reasonable level of exercise is a good thing, but excessive exercise places a burden on the body, lowering the immune system---which can have an effect on the equality of sperm---and it especially importatn to avoid doing excesiive cycling or weight traiing. In addition, the higher the temperature of the envirionment in which one does these activities, the more likely it is to have an impact on sperm production, and this can lead to a reduced sperm count or intertility. ONe should therefore avoid staying in a high temperature environment for an extended period of time.
+
+If a couple wants to have a child, Yang recommends that the male avoid junk food and could take up a Mediterranean diet supplemented with vitamins C and E and zinc. Women produce a finite number of eggs over the course of their life, but they can imporve the quality of the eggs they procue by making changes to their lifestyles and taking supplements such as vitamins C, D, E, B complex, folic acid anc Coenzyme Q10. Yang recommends that couples ages over 35 who have tried unsuccessfully for a child naturally for half a year seek medical help.
+
+
